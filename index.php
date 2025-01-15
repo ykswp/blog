@@ -6,8 +6,7 @@
 <body>
     <h1>Welcome to My Blog</h1>
     <h1>Welcome to My Exp</h1>
-   
-    <h1>Welcome to My Exp</h1>
+
     <h1>Welcome to My YUg</h1>
     
 
